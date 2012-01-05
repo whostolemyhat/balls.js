@@ -1,4 +1,4 @@
 Balls.js
 
 Balls drawn on HTML5 canvas by Javascript bounce around the screen.
-Requires jQuery
+Requires jQuery (link to Google CDN in code)
