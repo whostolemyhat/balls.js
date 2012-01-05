@@ -1,4 +1,4 @@
-if(Modernizr.canvas) {
+// if(Modernizr.canvas) {
         var canvas = $('#canvas');
         var ctx;
         var WIDTH = canvas.width();
@@ -104,4 +104,4 @@ if(Modernizr.canvas) {
         var balls = [new Ball(100, 100, randomSize(), randomColour()), new Ball(SCREENWIDTH/2, SCREENHEIGHT/2, randomSize(), randomColour()), new Ball(SCREENWIDTH-200, SCREENHEIGHT-200, randomSize(),  randomColour())];
 
         init();
-}
+// }
