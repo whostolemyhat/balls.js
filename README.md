@@ -1,5 +1,5 @@
-Balls.js 
-========
+# Balls.js 
+
 
 Balls drawn on HTML5 canvas by Javascript bounce around the screen.
 
